@@ -141,14 +141,9 @@ Currently improving:
 * Real-time data streaming concepts
 * Performance optimization in ETL pipelines
 * Advanced SQL & data modeling techniques
-
----
-
-## 📬 Contact
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 🌍 Location: Germany
+* Neural Networks (Deep Learning fundamentals)  
+* Natural Language Processing (NLP)  
+* Time Series Analysis & Forecasting 
 
 ---
 
